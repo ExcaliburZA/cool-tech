@@ -12,7 +12,7 @@ To view an article simply click on its title which should highlighted as a hyper
 ![Article viewer](articleview.PNG)
 
 To search for an article using either its tags, category, or ID number simply enter what you wish to search for in the appropriately labelled fields as shown in the example and click the button directly below it to perform the search. The example below shows the search function being used to search for articles with a specific tag.
-![Tag search](search page.PNG)
+![Tag search](searchpage.PNG)
 
 The results of the search will then be displayed following this as shown below.
 ![Tag search results] (searchresults.PNG)
