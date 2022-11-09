@@ -15,7 +15,7 @@ To search for an article using either its tags, category, or ID number simply en
 ![Tag search](search page.PNG)
 
 The results of the search will then be displayed following this as shown below.
-![Tag search results](search results.PNG)
+![Tag search results] (search results.PNG)
 
 To view articles with a specic tag directly from the article viewer page simpy click the hyperlinked tag listed underneath the Tags list of the article.
 
